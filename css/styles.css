@@ -1,6 +1,5 @@
 /* Overall page styling for a dark theme */
 body {
-  background-color: #121212;
   font-family: 'Poppins', sans-serif;
   margin: 0;
   padding: 0;
@@ -1322,4 +1321,5 @@ a:hover.back-to-top {
     /* end of extra pages */
 }
 /* end of min-width 1200px */
+
 
