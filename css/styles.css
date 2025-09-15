@@ -37,8 +37,6 @@ body {
 .image-content img {
   max-width: 100%;
   height: auto;
-  border-radius: 10px;
-  box-shadow: 0 0 20px rgba(0, 255, 255, 0.2), 0 0 40px rgba(0, 255, 255, 0.1);
   animation: slideIn 1s ease-in-out;
 }
 
@@ -1321,5 +1319,6 @@ a:hover.back-to-top {
     /* end of extra pages */
 }
 /* end of min-width 1200px */
+
 
 
